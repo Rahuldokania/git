@@ -1,4 +1,4 @@
 def add:
-	pass
+	return a+b
 def sub:
 	pass
